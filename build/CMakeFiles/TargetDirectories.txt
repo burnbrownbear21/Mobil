@@ -1,0 +1,4 @@
+/home/bur/Desktop/mobil/lab1/build/CMakeFiles/server.dir
+/home/bur/Desktop/mobil/lab1/build/CMakeFiles/client.dir
+/home/bur/Desktop/mobil/lab1/build/CMakeFiles/edit_cache.dir
+/home/bur/Desktop/mobil/lab1/build/CMakeFiles/rebuild_cache.dir
